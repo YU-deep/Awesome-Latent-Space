@@ -1,6 +1,6 @@
 <div align="center">
     <h1 style="display: inline-flex; align-items: center;">
-        <img src="img/icon.png" alt="icon" style="width: 32px; height: 32px; margin-right: 8px;">
+        <img src="img/other/icon.png" alt="icon" style="width: 32px; height: 32px; margin-right: 8px;">
         Awesome Latent Space
     </h1>
 </div>
@@ -30,7 +30,11 @@ Here, we classify all the latent space based methods two categories, and sort by
 
 ## 🤝 Contributing
 We warmly welcome contributions of excellent resources you find via **pull request**. Please follow the instruction in **CONTRIBUTING.md** if you want to make one.
-Additionally, if you have any other issue, please feel free to contact at: <xinleiyu88@gmail.com>.
+Additionally, if you want to have any other issue, please add this wechat group.
+<img width="200" alt="image" src="img/other/wechat_group.jpg">
+
+
+
 
 
 
