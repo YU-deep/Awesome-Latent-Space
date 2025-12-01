@@ -8,16 +8,18 @@
 This repository manually collects works in **latent space**, which will be continuously updated.
 
 
-## 🤝Contact
-We warmly welcome contributions of excellent resources you find via Pull Request. Additionally, if you want to be a contributor or find there is any mistake, please feel free to contact me at: <xinleiyu88@gmail.com>.
-
 ## 📖News
-[30/11/2025] We release the initial version!
+**[30/11/2025]** We release the initial version!
 
 ## 🌟 Overview
 Here, we classify all the latent space based methods two categories, and sort by date in ascending order:
 - ### [Text-based](#Text-based)
 - ### [Visual-based](#Visual-based)
+
+
+## 🤝 Contact
+We warmly welcome contributions of excellent resources you find via Pull Request. Additionally, if you want to be a contributor or find there is any mistake, please feel free to contact me at: <xinleiyu88@gmail.com>.
+
 
 
 
