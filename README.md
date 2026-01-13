@@ -122,6 +122,7 @@ Additionally, if you want to have any other issue, please add our wechat group.
 | 2025/12  | [Reasoning Within the Mind: Dynamic Multimodal Interleaving in Latent Space](https://arxiv.org/abs/2512.12623)                                                             | <img width="700" alt="image" src="img/vlm/2512_mind.png">      | [Github](https://github.com/eric-ai-lab/DMLR)                 |
 | 2025/12  | [Sketch-in-Latents: Eliciting Unified Reasoning in MLLMs](https://arxiv.org/abs/2512.16584)                                                                                | <img width="700" alt="image" src="img/vlm/2512_skila.png">     | [Github](https://github.com/TungChintao/SkiLa)                |
 | 2025/12  | [Latent Implicit Visual Reasoning](https://arxiv.org/abs/2512.21218)                                                                                                       | <img width="700" alt="image" src="img/vlm/2512_livr.png">      | -                                                             |
+| 2025/12  | [Forest Before Trees: Latent Superposition for Efficient Visual Reasoning](https://arxiv.org/abs/2601.06803)                                                                                                       | <img width="700" alt="image" src="img/vlm/2601_laser.png"> | [Github](https://github.com/ybb6/laser) |
 
 
 ### Multi-Agent-System
