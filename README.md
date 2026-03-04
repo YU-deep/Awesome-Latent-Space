@@ -28,6 +28,7 @@ This repository manually collects works in **latent space**, which will be conti
   - [Vision-Language-Model](#vision-language-model)
   - [Multi-Agent-System](#multi-agent-system)
   - [Vision-Language-Action-Model](#vision-language-action-model)
+  - [Video-World-Model](#video-world-model)
 
 
 ## 🤝 Contributing
@@ -297,3 +298,14 @@ Additionally, if you want to have any other issue, please add our wechat group.
 | 2026/02  | [FUTURE-VLA: Forecasting Unified Trajectories Under Real-time Execution](https://arxiv.org/abs/2602.15882)                                                                                                                    | <img width="700" alt="image" src="img/vla/2602_futurevla.png">             | -                                                         |
 | 2026/02  | [UniLACT: Depth-Aware RGB Latent Action Learning for Vision-Language-Action Models](https://arxiv.org/abs/2602.20231)                                                                                                           | <img width="700" alt="image" src="img/vla/2602_unilact.png">               | -                                                         |
 | 2026/02  | ![CVPR'26](https://img.shields.io/badge/CVPR'26-f1b800) <br/> [JALA: Joint-Aligned Latent Action: Towards Scalable VLA Pretraining in the Wild](https://arxiv.org/abs/2602.21736)             | <img width="700" alt="image" src="img/vla/2602_jala.png">                  | -                                                         |
+
+
+### Video-World-Model
+| Date     | Paper Title                                                                                                                                                                              | Introduction                                                             | Code                                                      |
+|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|-----------------------------------------------------------|
+| 2024/02 | ![ICML'24](https://img.shields.io/badge/ICML'24-f1b800) <br/> [Genie: Generative Interactive Environments](https://arxiv.org/abs/2402.15391) | <img width="700" alt="image" src="img/vwm/2402_genie.png"> | - |
+| 2025/03 | ![ICML'25](https://img.shields.io/badge/ICML'25-f1b800) <br/> [AdaWorld: Learning Adaptable World Models with Latent Actions](https://arxiv.org/abs/2503.18938) | <img width="700" alt="image" src="img/vwm/2503_adaworld.png"> | [Github](https://github.com/Little-Podi/AdaWorld) |
+| 2025/10 | [Co-Evolving Latent Action World Models](https://arxiv.org/abs/2510.26433) | <img width="700" alt="image" src="img/vwm/2510_cola-world.png"> | - |
+| 2026/01 | [Learning Latent Action World Models In The Wild](https://arxiv.org/abs/2601.05230) | <img width="700" alt="image" src="img/vwm/2601_lam-inthewild.png"> | - |
+| 2026/02 | [Olaf-World: Orienting Latent Actions for Video World Modeling](https://arxiv.org/abs/2602.10104) | <img width="700" alt="image" src="img/vwm/2602_olaf-world.png"> | [Github](https://github.com/showlab/Olaf-World) |
+| 2026/02 | [DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos](https://arxiv.org/abs/2602.06949) | <img width="700" alt="image" src="img/vwm/2602_dreamdojo.png"> | [Github](https://github.com/NVIDIA/DreamDojo) |
