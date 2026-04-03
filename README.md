@@ -17,6 +17,7 @@ This repository manually collects works in **latent space**, which will be conti
 
 
 ## 📖 News
+**[2026/04/03]** We release the [survey](https://arxiv.org/pdf/2604.02029)!
 **[2025/11/30]** We release the initial version!
 
 ## 🌟 Overview
