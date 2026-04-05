@@ -1,7 +1,7 @@
 <div align="center">
     <h1 style="display: inline-flex; align-items: center;">
         <img src="img/static/icon.png" alt="icon" style="width: 32px; height: 32px; margin-right: 8px;">
-        Awesome Latent Space
+        The Latent Space: Foundation, Evolution, Mechanism, Ability, and Outlook
     </h1>
 </div>
 
@@ -9,8 +9,11 @@
     <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome list badge"></a>
     <a href="https://github.com/YU-deep/Awesome-Latent-Space/stargazers"><img src="https://img.shields.io/github/stars/YU-deep/Awesome-Latent-Space?style=social" alt="GitHub stars"></a>
     <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="MIT License"></a>
+    <a href="https://arxiv.org/abs/2604.02029"><img src="https://img.shields.io/badge/Arxiv-2604.02029-b31b1b.svg?logo=arXiv" alt="arXiv"></a>
+    <a href="https://huggingface.co/papers/2604.02029"><img src="https://img.shields.io/badge/Hugging_Face-2604.02029-292929.svg?logo=huggingface" alt="Hugging Face"></a>
     <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome"></a>
     <a href="img/static/wechat_group.jpg"><img src="https://img.shields.io/badge/Group-WeChat-07c160?logo=wechat&logoColor=white" alt="WeChat Group"></a>
+    <a href="https://www.semanticscholar.org/paper/The-Latent-Space%3A-Foundation%2C-Evolution%2C-Mechanism-Yu-Chen/47e1ecd29e617de26cc03f9615e303b19f52cfe1"><img src="https://img.shields.io/badge/dynamic/json?label=Citations&query=%24.citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F47e1ecd29e617de26cc03f9615e303b19f52cfe1%3Ffields%3DcitationCount&logo=semanticscholar&cacheSeconds=3600" alt="Semantic Scholar Citations"></a>
 </p>
 
 This repository manually collects works in **latent space**, which will be continuously updated.
@@ -21,14 +24,30 @@ This repository manually collects works in **latent space**, which will be conti
 
 **[2025/11/30]** We release the initial version!
 
+[![Star History Chart](https://api.star-history.com/svg?repos=YU-deep/Awesome-Latent-Space&type=Date)](https://star-history.com/#YU-deep/Awesome-Latent-Space&Date)
+
 ## 🌟 Overview
 - [📖 News](#-news)
 - [🌟 Overview](#-overview)
+- [📄 Citation](#-citation)
 - [🤝 Contributing](#-contributing)
 - [🔥 Methods](#-methods)
   - [Large-Language-Model](#large-language-model)
   - [Vision-Language-Model](#vision-language-model)
   - [Vision-Language-Action-Model](#vision-language-action-model)
+
+
+
+## 📄 Citation
+If you find this survey helpful, a citation to our paper would be greatly appreciated:
+```bibtex
+@article{yu2026latent,
+  title={The Latent Space: Foundation, Evolution, Mechanism, Ability, and Outlook},
+  author={Yu, Xinlei and Chen, Zhangquan and He, Yongbo and Fu, Tianyu and Yang, Cheng and Xu, Chengming and Ma, Yue and Hu, Xiaobin and Cao, Zhe and Xu, Jie and others},
+  journal={arXiv preprint arXiv:2604.02029},
+  year={2026}
+}
+```
 
 
 ## 🤝 Contributing
